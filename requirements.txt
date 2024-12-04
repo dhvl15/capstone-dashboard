@@ -1,3 +1,4 @@
 streamlit
 spacy_streamlit
 spacy
+wordcloud
