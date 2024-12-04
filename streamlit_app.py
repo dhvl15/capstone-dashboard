@@ -4,7 +4,6 @@ import os
 import spacy
 from spacy_streamlit import load_model
 import pandas as pd
-from streamlit_d3graph import d3graph
 from PIL import Image
 from pathlib import Path
 import base64
