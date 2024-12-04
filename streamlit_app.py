@@ -7,7 +7,6 @@ import pandas as pd
 from PIL import Image
 from pathlib import Path
 import base64
-from st_social_media_links import SocialMediaIcons
 from wordcloud import WordCloud
 
 st.set_page_config(layout="wide")
