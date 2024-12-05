@@ -32,7 +32,7 @@ team_members = [
     {
         "name": "Vaishnavi Sadul",
         "email": "sadul.v@northestern.edu",
-        "linkedin": "https://www.linkedin.com/in/bobjohnson",
+        "linkedin": "https://www.linkedin.com/in/vaishnavi-sadul-0009b31b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "image_path": "p3.png",  # Replace with the actual path to Bob's image
     },
     {
